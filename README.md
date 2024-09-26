@@ -9,4 +9,7 @@ Key areas of investigation include:
 - Real-world testing on the COSMOS 5G Testbed
 - Contributions to the evolving landscape of 6G standards, use case studies, and experiments with real-world data are documented and version-controlled for collaborative research.
 
+![image](https://github.com/user-attachments/assets/554e3715-54c5-4f81-9db1-f2ec7a9810c8)
+
+
 
