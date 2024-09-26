@@ -3,10 +3,10 @@ This repository contains research, simulations, and insights focused on the deve
 
 Key areas of investigation include:
 
-Machine Learning (ML) for Channel Estimation and Equalization
-Reinforcement Learning (RL) for Constellation Design
-Simulations and validations using NVIDIA Sionna and MATLAB
-Real-world testing on the COSMOS 5G Testbed
-Contributions to the evolving landscape of 6G standards, use case studies, and experiments with real-world data are documented and version-controlled for collaborative research.
+- Machine Learning (ML) for Channel Estimation and Equalization
+- Reinforcement Learning (RL) for Constellation Design
+- Simulations and validations using NVIDIA Sionna and MATLAB
+- Real-world testing on the COSMOS 5G Testbed
+- Contributions to the evolving landscape of 6G standards, use case studies, and experiments with real-world data are documented and version-controlled for collaborative research.
 
 
